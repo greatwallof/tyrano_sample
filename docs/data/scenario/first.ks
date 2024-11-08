@@ -42,6 +42,41 @@
 自分が世界最高だと認められる。これほどの栄誉は他にはあり得ないからね[l][r]
 サッカーに限界など無い。限界が無いからこそ今の俺がいる[l][r]
 
-【 GOOD END 】[l][cm]
+[link target=*tag_practice] →練習する　[endlink][r]
+[link target=*tag_bed]→寝る [endlink][r]
+[s]
+
+*tag_practice
+
+[cm]
+
+[bg storage=hotsoccercoach.png time=500]
+
+
+[cm]
+ロナウドは燃えた[l][r]
+
+世界一でいる為のモチベーションの秘訣は、情熱だよ。好きな事をするっていう情熱なんだ。[l][r]
+
+視界が暗くなってきた。[l][r]
+
+どうやら無理をしすぎたようだ[l][r]
+
+彼は超人だった[r]
+
+BAD END[l][cm]
 
 [jump target=*start]
+
+*tag_bed
+
+[bg storage=sleep.jpg time=500]
+
+[cm]
+ロナウドは呆れた。[l][r]
+君が成功することはないよ[r]
+
+BAD END[l][cm]
+
+[jump target=*start]
+
